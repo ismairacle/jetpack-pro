@@ -1,0 +1,114 @@
+{
+  "movie": [
+    {
+      "id": "m1",
+      "title": "Wonder Woman 1984",
+      "rating": "7,2/10",
+      "duration": "2h 31m",
+      "date": "Dec 16, 2020",
+      "genre": "Fantasy, Action, Adventure",
+      "director": "Patty Jenkins",
+      "description": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg"
+    },
+    {
+      "id": "m2",
+      "title": "Heavenquest: A Pilgrim's Progress",
+      "rating": "5,4/10",
+      "duration": "1h 31m",
+      "date": "Jul 13, 2020",
+      "genre": "Fantasy, Action, Adventure",
+      "director": "Matt Bilen",
+      "description": "Inspired by the 1678 novel The Pilgrim's Progress and an imagined prequel to Bunyan's original writings. A regal man named Vangel is thrust on a journey against his will when he is suddenly and mysteriously arrested. Injured and lost after escaping the dark king’s men, Vangel begins to have strange dreams and visions of a mysterious woman in white calling him from the unknown territory of the North. Armed with a book called “The Record of the Ancients” that he receives from a wise sage named Elder, Vangel embarks on an adventure that takes him through treacherous mountain range, unending deserts, the Lake of Doubts, and the Forest of No Return. Along the way, travel companions share about a fabled good king and his son in the North if he can make it there alive.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cLDPLia17AwMqSaRHccyAlInkch.jpg"
+    },
+    {
+      "id": "m3",
+      "title": "No Good Deed",
+      "rating": "6,4/10",
+      "duration": "1h 32m",
+      "date": "Mar 13, 2020",
+      "genre": "Thriller",
+      "director": "Caroline Labrèche",
+      "description": "Karen never planned on being a hero. A recent widow, she has her hands full with work and parenting her son Max. Then Karen saves Jeremy's life during a drug store robbery and quickly discovers that the young man is intent on paying her back at any cost. At first, life starts improving for this good Samaritan, but as Jeremy's efforts become more extreme, Karen starts to wonder if no good deed truly goes unpunished.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/27BnREBR5rcMrUVUhV5bTXlcCym.jpg"
+    },
+    {
+      "id": "m4",
+      "title": "Monsters of Man",
+      "rating": "7,2/10",
+      "duration": "2h 11m",
+      "date": "Aug 12, 2020",
+      "genre": "Science Fiction",
+      "director": "Mark Toia",
+      "description": "A robotics company vying to win a lucrative military contract team up with a corrupt CIA agent to conduct an illegal live field test. They deploy four weaponized prototype robots into a suspected drug manufacturing camp in the Golden Triangle, assuming they'd be killing drug runners that no one would miss. Six doctors on a humanitarian mission witness the brutal slaughter and become prime targets.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1f3qspv64L5FXrRy0MF8X92ieuw.jpg"
+    },
+    {
+      "id": "m5",
+      "title": "The Croods: A New Age",
+      "rating": "7,7/10",
+      "duration": "1h 35m",
+      "date": "Dec 23, 2020",
+      "genre": "Adventure, Fantasy, Family, Animation",
+      "director": "Joel Crawford",
+      "description": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg"
+    },
+    {
+      "id": "m6",
+      "title": "Cosmoball",
+      "rating": "5,3/10",
+      "duration": "1h 55m",
+      "date": "Aug 27, 2020",
+      "genre": "Science Fiction, Adventure",
+      "director": "Dzhanik Fayziev",
+      "description": "Cosmoball is a mesmerizing intergalactic game of future played between humans and aliens at the giant extraterrestrial ship hovering in the sky over Earth. A young man with enormous power of an unknown nature joins the team of hot-headed superheroes in exchange for a cure for his mother’s deadly illness. The Four from Earth will fight not only to defend the honor of their home planet in the spectacular game, but to face the unprecedented threat to the Galaxy and embrace their own destiny.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eDJYDXRoWoUzxjd52gtz5ODTSU1.jpg"
+    },
+    {
+      "id": "m7",
+      "title": "Battleship",
+      "rating": "5,7/10",
+      "duration": "2h 11m",
+      "date": "Nov 04, 2012",
+      "genre": "Thriller, Action, Adventure, Science Fiction",
+      "director": "Peter Berg",
+      "description": "When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father—an Admiral—expect of him.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg"
+    },
+    {
+      "id": "m8",
+      "title": "Soul",
+      "rating": "8,4/10",
+      "duration": "1h 42m",
+      "date": "Dec 25, 2020",
+      "genre": "Animation, Comedy, Drama, Music, Fantasy",
+      "director": "Pete Docter",
+      "description": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg"
+    },
+    {
+      "id": "m9",
+      "title": "Naruto Shippuden the Movie ",
+      "rating": "7,2/10",
+      "duration": "1h 34m",
+      "date": "Aug 04, 2007",
+      "genre": "Family, Action, Animation, Adventure, Fantasy",
+      "director": "Hajime Kamegaki",
+      "description": "Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto's mission is to guard Shion, but she predicts Naruto's death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this prediction of death.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDkct38sSFSWJIATlfJw0l3QOIR.jpg"
+    },
+    {
+      "id": "m10",
+      "title": "Mulan",
+      "rating": "7,1/10",
+      "duration": "1h 55m",
+      "date": "Sep 04, 2020",
+      "genre": "Adventure, Fantasy",
+      "director": "Niki Caro",
+      "description": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "tv_show": [
+    {
+      "id": "tv1",
+      "title": "Cobra Kai",
+      "rating": "8,1/10",
+      "duration": "30min",
+      "date": "May 02, 2018",
+      "genre": "Action & Adventure, Drama",
+      "director": "Hayden Schlossberg",
+      "description": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/obLBdhLxheKg8Li1qO11r2SwmYO.jpg"
+    },
+    {
+      "id": "tv2",
+      "title": "Jujutsu Kaisen",
+      "rating": "8,7/10",
+      "duration": "24m",
+      "date": "Oct 23, 2020",
+      "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+      "director": "Yuuji Itadori",
+      "description": "Yuuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a friend who has been attacked by Curses, he eats a finger of Ryoumen Sukuna, taking the Curse into his own soul. From then on, he shares one body with Sukuna. Guided by the most powerful of sorcerers, Satoru Gojou, Itadori is admitted to the Tokyo Prefectural Jujutsu High School, an organization that fights the Curses... and thus begins the heroic tale of a boy who became a Curse to exorcise a Curse, a life from which he could never turn back.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g1rK2nRXSidcMwNliWDIroWWGTn.jpg"
+    },
+    {
+      "id": "tv3",
+      "title": "Game of Thrones",
+      "rating": "8,4/10",
+      "duration": "60m",
+      "date": "May 11, 2011",
+      "genre": "Sci-Fi & Fantasy, Drama, Action & Adventure, Mystery",
+      "director": "David Benioff",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg"
+    },
+    {
+      "id": "tv4",
+      "title": "The Simpsons",
+      "rating": "7,8/10",
+      "duration": "22m",
+      "date": "1989",
+      "genre": "Animation, Comedy, Family, Drama",
+      "director": "Matt Groening",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IWouZK4gkgHhJa3oyYuSWfSqbG.jpg"
+    },
+    {
+      "id": "tv5",
+      "title": "Sweet Home",
+      "rating": "8,6/10",
+      "duration": "52m",
+      "date": "Dec 18, 2020",
+      "genre": "Drama, Sci-Fi & Fantasy",
+      "director": "Pyeon Sang-wook",
+      "description": "Cha Hyun-Soo is a high school student. He is also a recluse and rarely leaves his room. He refuses to talk to his father, mother and younger sister. One day, his whole family, except for him, dies in a car accident. Cha Hyun-Soo is left all alone. He moves into a small apartment. At this time, a mysterious phenomenon of humans turning into monster occur all around the world. The residents of Cha Hyun-Soo's apartment building, including Pyeon Sang-Wook, fight against these monsters and try to survive.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6eMg81CPLalULg8spPt2LxfQtFj.jpg"
+    },
+    {
+      "id": "tv6",
+      "title": "The Lord of the Skies",
+      "rating": "7,7/10",
+      "duration": "45m",
+      "date": "2013",
+      "genre": "Crime, Drama, Soap",
+      "director": "Mariano Calasso",
+      "description": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg"
+    },
+    {
+      "id": "tv7",
+      "title": "The Flash",
+      "rating": "7,6/10",
+      "duration": "44m",
+      "date": "2014",
+      "genre": "Drama, Sci-Fi & Fantasy",
+      "director": "Greg Berlanti",
+      "description": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only meta-human who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "id": "tv8",
+      "title": "Valor",
+      "rating": "6,5/10",
+      "duration": "43m",
+      "date": "2017",
+      "genre": "Drama",
+      "director": "Kyle Jarrow",
+      "description": "The boundaries between military discipline and human desire are tested on a U.S. Army base that houses an elite unit of helicopter pilots trained to perform clandestine international and domestic missions. The drama unfolds in the present as well as in flashbacks to a failed mission involving one of the first female pilots in the unit, ultimately uncovering layers of personal and government/military secrets and leading to a season-long plan to rescue a group of MIA soldiers.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pJKRWAp0ZO8zM5VhGlISusLrbXs.jpg"
+    },
+    {
+      "id": "tv9",
+      "title": "Mind Games",
+      "rating": "6,4/10",
+      "duration": "60m",
+      "date": "2017",
+      "genre": "Drama",
+      "director": "Christian Slater",
+      "description": "Clark and Ross Edwards are brothers and partners in a unique agency committed to solving clients’ problems using the hard science of psychological manipulation. Clark is a former professor and a world-renowned expert in the field of human behavior. He has a checkered history due to bipolar disorder, which sometimes results in quirky, manic episodes. His older brother Ross is a slick con man who spent time in prison. Each in their own way knows what makes people tick. Drawing from the most cutting edge research in psychology, they can a tailor a plan to influence any situation. It’s a little bit science, a little bit con artistry plus a smattering of Jedi mind tricks. The brothers, along with their team of master manipulators are offering clients an alternative to fate.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qAnfbp1rvKdksaxHK7N865R6E4P.jpg"
+    },
+    {
+      "id": "tv10",
+      "title": "Money Heist",
+      "rating": "8,3/10",
+      "duration": "1h 10m",
+      "date": "2017",
+      "genre": "Crime, Drama",
+      "director": "Alex Pina",
+      "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/MoEKaPFHABtA1xKoOteirGaHl1.jpg"
+    }
+  ]
+}
