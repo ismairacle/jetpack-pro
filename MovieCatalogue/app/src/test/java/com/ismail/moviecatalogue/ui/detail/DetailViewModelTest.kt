@@ -9,7 +9,6 @@ import com.ismail.moviecatalogue.data.source.local.entity.TvShowEntity
 import com.ismail.moviecatalogue.ui.favorite.movie.FavoriteMovieViewModel
 import com.ismail.moviecatalogue.ui.favorite.tvshow.FavoriteTvShowViewModel
 import com.ismail.moviecatalogue.utils.DataDummy
-import com.nhaarman.mockitokotlin2.verifyNoMoreInteractions
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
@@ -29,7 +28,7 @@ class DetailViewModelTest {
     private val dummyMovies = DataDummy.generateDummyMovies()[0]
     private val movieId = dummyMovies.id
 
-    private val dummyTvShow = DataDummy.generateDummyTvShow()[1]
+    private val dummyTvShow = DataDummy.generateDummyTvShow()[0]
     private val tvShowId = dummyTvShow.id
 
     @get:Rule
@@ -89,12 +88,40 @@ class DetailViewModelTest {
         tvShow.value = dummyTvShow
 
         `when`(catalogueRepository.getTvShowById(tvShowId)).thenReturn(tvShow)
+        val tvShowSelected = catalogueRepository.getTvShowById(tvShowId).value as TvShowEntity
+        viewModel.tvShow.observeForever(tvShowObserver)
+        verify(tvShowObserver).onChanged(dummyTvShow)
         viewModel.setTvShowFavorite()
-        verify(catalogueRepository).setTvShowFavorite(tvShow.value!!, true)
-        verifyNoMoreInteractions(tvShowObserver)
+        verify(catalogueRepository).setTvShowFavorite(tvShowSelected, true)
+        viewModel.tvShow.observeForever(tvShowObserver)
+        verify(tvShowObserver).onChanged(dummyTvShow)
+
+
     }
 
+    @Test
+    fun setMovieFavorite() {
+
+        val movie = MutableLiveData<MovieEntity>()
+        movie.value = dummyMovies
+
+        `when`(catalogueRepository.getMovieById(movieId)).thenReturn(movie)
+        val movieSelected = catalogueRepository.getMovieById(movieId).value as MovieEntity
+        viewModel.movie.observeForever(movieObserver)
+        verify(movieObserver).onChanged(dummyMovies)
+        viewModel.setMovieFavorite()
+        verify(catalogueRepository).setMovieFavorite(movieSelected, true)
+        viewModel.movie.observeForever(movieObserver)
+        verify(movieObserver).onChanged(dummyMovies)
+
+
+    }
+
+
+
 }
+
+
 
 
 

@@ -155,6 +155,7 @@ class HomeActivityTest {
         onView(withId(R.id.text_director)).check(matches(isDisplayed()))
         onView(withId(R.id.text_description)).check(matches(isDisplayed()))
         onView(withId(R.id.image_poster)).check(matches(isDisplayed()))
+        onView(withId(R.id.action_favorite)).perform(ViewActions.click())
         onView(isRoot()).perform(ViewActions.pressBack())
 
     }
@@ -189,9 +190,9 @@ class HomeActivityTest {
         onView(withId(R.id.text_director)).check(matches(isDisplayed()))
         onView(withId(R.id.text_description)).check(matches(isDisplayed()))
         onView(withId(R.id.image_poster)).check(matches(isDisplayed()))
+        onView(withId(R.id.action_favorite)).perform(ViewActions.click())
         onView(isRoot()).perform(ViewActions.pressBack())
 
     }
-
 
 }
