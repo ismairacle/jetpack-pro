@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.ismail.moviecatalogue.databinding.FragmentFavoriteTvShowBinding
-import com.ismail.moviecatalogue.viewmodel.ViewModelFactory
+import com.ismail.moviecatalogue.core.viewmodel.ViewModelFactory
 import kotlinx.android.synthetic.main.fragment_favorite_tv_show.*
 
 class FavoriteTvShowFragment : Fragment() {

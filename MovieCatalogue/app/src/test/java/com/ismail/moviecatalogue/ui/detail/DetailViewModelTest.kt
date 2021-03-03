@@ -3,12 +3,12 @@ package com.ismail.moviecatalogue.ui.detail
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Observer
-import com.ismail.moviecatalogue.data.CatalogueRepository
-import com.ismail.moviecatalogue.data.source.local.entity.MovieEntity
-import com.ismail.moviecatalogue.data.source.local.entity.TvShowEntity
+import com.ismail.moviecatalogue.core.data.CatalogueRepository
+import com.ismail.moviecatalogue.core.data.source.local.entity.MovieEntity
+import com.ismail.moviecatalogue.core.data.source.local.entity.TvShowEntity
 import com.ismail.moviecatalogue.ui.favorite.movie.FavoriteMovieViewModel
 import com.ismail.moviecatalogue.ui.favorite.tvshow.FavoriteTvShowViewModel
-import com.ismail.moviecatalogue.utils.DataDummy
+import com.ismail.moviecatalogue.core.utils.DataDummy
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test

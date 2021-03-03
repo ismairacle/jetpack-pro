@@ -4,13 +4,12 @@ import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Observer
 import androidx.paging.PagedList
-import com.ismail.moviecatalogue.data.CatalogueRepository
+import com.ismail.moviecatalogue.core.data.CatalogueRepository
 
-import com.ismail.moviecatalogue.data.source.local.entity.MovieEntity
+import com.ismail.moviecatalogue.core.data.source.local.entity.MovieEntity
 
-import com.ismail.moviecatalogue.utils.DataDummy
-import com.ismail.moviecatalogue.vo.Resource
-import com.ismail.moviecatalogue.vo.Resource.Companion.success
+import com.ismail.moviecatalogue.core.vo.Resource
+import com.ismail.moviecatalogue.core.vo.Resource.Companion.success
 
 import org.junit.Test
 

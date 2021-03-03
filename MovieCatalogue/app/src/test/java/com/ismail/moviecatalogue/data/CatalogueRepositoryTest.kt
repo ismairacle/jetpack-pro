@@ -2,14 +2,14 @@ package com.ismail.moviecatalogue.data
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.paging.DataSource
-import com.ismail.moviecatalogue.data.source.RemoteDataSource
-import com.ismail.moviecatalogue.data.source.local.LocalDataSource
-import com.ismail.moviecatalogue.data.source.local.entity.MovieEntity
-import com.ismail.moviecatalogue.data.source.local.entity.TvShowEntity
+import com.ismail.moviecatalogue.core.data.source.RemoteDataSource
+import com.ismail.moviecatalogue.core.data.source.local.LocalDataSource
+import com.ismail.moviecatalogue.core.data.source.local.entity.MovieEntity
+import com.ismail.moviecatalogue.core.data.source.local.entity.TvShowEntity
 import com.ismail.moviecatalogue.ui.utils.PagedListUtil
-import com.ismail.moviecatalogue.utils.AppExecutors
-import com.ismail.moviecatalogue.utils.DataDummy
-import com.ismail.moviecatalogue.vo.Resource
+import com.ismail.moviecatalogue.core.utils.AppExecutors
+import com.ismail.moviecatalogue.core.utils.DataDummy
+import com.ismail.moviecatalogue.core.vo.Resource
 import com.nhaarman.mockitokotlin2.verify
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull

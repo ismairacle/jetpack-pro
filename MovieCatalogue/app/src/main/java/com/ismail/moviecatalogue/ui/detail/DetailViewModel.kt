@@ -4,9 +4,9 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Transformations
 import androidx.lifecycle.ViewModel
-import com.ismail.moviecatalogue.data.source.local.entity.MovieEntity
-import com.ismail.moviecatalogue.data.source.local.entity.TvShowEntity
-import com.ismail.moviecatalogue.data.CatalogueRepository
+import com.ismail.moviecatalogue.core.data.source.local.entity.MovieEntity
+import com.ismail.moviecatalogue.core.data.source.local.entity.TvShowEntity
+import com.ismail.moviecatalogue.core.data.CatalogueRepository
 
 class DetailViewModel(private val catalogueRepository: CatalogueRepository) : ViewModel() {
 

@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.ismail.moviecatalogue.databinding.FragmentFavoriteMovieBinding
-import com.ismail.moviecatalogue.viewmodel.ViewModelFactory
+import com.ismail.moviecatalogue.core.viewmodel.ViewModelFactory
 import kotlinx.android.synthetic.main.fragment_favorite_movie.*
 
 
@@ -17,6 +17,7 @@ class FavoriteMovieFragment : Fragment() {
     private var _fragmentFavoriteMovieBinding: FragmentFavoriteMovieBinding? = null
     private val binding get() = _fragmentFavoriteMovieBinding
     private lateinit var viewModel: FavoriteMovieViewModel
+
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
 
         _fragmentFavoriteMovieBinding = FragmentFavoriteMovieBinding.inflate(layoutInflater, container, false)

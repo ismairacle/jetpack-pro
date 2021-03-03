@@ -9,8 +9,8 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.ismail.moviecatalogue.databinding.FragmentTvShowBinding
-import com.ismail.moviecatalogue.viewmodel.ViewModelFactory
-import com.ismail.moviecatalogue.vo.Status
+import com.ismail.moviecatalogue.core.viewmodel.ViewModelFactory
+import com.ismail.moviecatalogue.core.vo.Status
 
 
 class TvShowFragment : Fragment(){

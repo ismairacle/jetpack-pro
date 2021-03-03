@@ -10,7 +10,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.request.RequestOptions
 import com.ismail.moviecatalogue.R
-import com.ismail.moviecatalogue.data.source.local.entity.TvShowEntity
+import com.ismail.moviecatalogue.core.data.source.local.entity.TvShowEntity
 import com.ismail.moviecatalogue.databinding.ItemsListBinding
 import com.ismail.moviecatalogue.ui.detail.DetailActivity
 

@@ -11,11 +11,11 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.request.RequestOptions
 import com.ismail.moviecatalogue.R
-import com.ismail.moviecatalogue.data.source.local.entity.MovieEntity
-import com.ismail.moviecatalogue.data.source.local.entity.TvShowEntity
+import com.ismail.moviecatalogue.core.data.source.local.entity.MovieEntity
+import com.ismail.moviecatalogue.core.data.source.local.entity.TvShowEntity
 import com.ismail.moviecatalogue.databinding.ActivityDetailBinding
 import com.ismail.moviecatalogue.databinding.ContentDetailBinding
-import com.ismail.moviecatalogue.viewmodel.ViewModelFactory
+import com.ismail.moviecatalogue.core.viewmodel.ViewModelFactory
 import kotlinx.android.synthetic.main.activity_detail.*
 
 
